@@ -108,7 +108,7 @@ Within the VM, open the Microsoft Edge web browser and download <a href= https:/
   ![1](https://github.com/user-attachments/assets/740ab422-8d25-4a13-b89b-88806537002e)  
 - If everything was done correctly we have successfully setup osTicket, and all it's dependencies!  
   ![1](https://github.com/user-attachments/assets/5dd39d25-6689-4528-8b4f-fd8ae7720ce4)
-- <a href="http://localhost/osticket/scp/login.php">http://localhost/osticket/scp/login.php</a> is the URL we can login as Admins and End Users can login with <a href="http://localhost/osticket">http://localhost/osticket</a>
+
 
 
 
