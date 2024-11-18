@@ -31,7 +31,8 @@ Within the VM, open the Microsoft Edge web browser and download <a href= https:/
 - Create a Virtual Machine, during this process you will be prompted to create a resource group. Ensure that your machine has at least 2vCPUs, and 8GB of RAM
 - Choose your admin account credentials
 - In previous walkthroughs we would create a virtual network, but today we will allow azure to create one for us. Everything we will leave alone
-- Review and Create VM
+- Review and Create VM. Once complete, search for your virtual machine and get the public IP
+  ![Screenshot 2024-11-18 082338](https://github.com/user-attachments/assets/b40d294b-bb73-4420-a1f6-25596c43b954)
 - 
 
 
