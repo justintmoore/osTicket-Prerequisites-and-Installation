@@ -267,6 +267,40 @@ Within the VM, open the Microsoft Edge web browser and download <a href="https:/
 </p>
 <br>
 
+## Lessons Learned
+<p align="center">
+    This lab taught me some things, while I may not see as important, it's nice to know. I learned about Internet Information Services (IIS) and how is it web server software used by Microsoft to host and manage websites, applications, and services on Windows Servers. This is the first time I ever heard, let along put hands on IIS. I learned that is requires quite a bit of dependencies to function. I got the lesson that PHP is a server-side scripting language that allows a person to create dynamic and interactive websites. This is my first experience with PHP as well, as a cybersecurity practitioner, I understand the importance of understanding PHP. I got more hands on experience installed MySQL, which is just a database we used for osTicket, and HeidiSQL which is an GUI allowing us to interactive with MySQL databases. We used HeidiSQL, to create a database within the already established MySQL database to store osTicket resources. What I can further learn is the configurations that go along with PHP and osTicket. 
+</p>
+<br>
+<p align="center">
+    <strong>The Marathon Continues!</strong>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
